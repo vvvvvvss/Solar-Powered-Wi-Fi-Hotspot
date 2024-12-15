@@ -1,7 +1,7 @@
 # Solar-Powered-Wi-Fi-Hotspot
 
 ## **1. Problem Statement**  
-In India, millions of people in remote, rural, and disaster-prone areas lack reliable access to the internet due to inadequate infrastructure and frequent power outages. 
+In India, people in rural areas lack reliable access to the internet due to inadequate infrastructure and frequent power outages. 
 This digital divide limits opportunities for education, healthcare, and communication. 
 There is a critical need for a cost-effective, sustainable solution to provide internet connectivity in such regions, especially during emergencies or in areas without access to grid electricity.
 
@@ -25,8 +25,7 @@ Key features include:
   - MPPT charge controller for efficient energy management.  
 - **Wi-Fi Hotspot Device**:  
   - Portable 4G/5G router (e.g., TP-Link or JioFi).  
-  - High-gain antenna for extended range.  
-  - Optional mesh routers for larger coverage.  
+  - High-gain antenna for extended range.   
 - **Casing**: Weatherproof and ruggedized casing for durability.  
 
 ### **Software**:  
@@ -39,15 +38,14 @@ Key features include:
 - **Data Optimization**: Compression and QoS tools to optimize bandwidth usage.  
 
 
-## **4. Timeline (6-Month Plan)**  
+## **4. Timeline**  
 
-| **Phase**               | **Tasks**                                                                | **Duration**     |  
-|-------------------------|--------------------------------------------------------------------------|------------------|  
-| **Phase 1: Research**   | Assess user needs, connectivity options, and solar requirements.         | 1 Week           |  
-| **Phase 2: Prototype**  | Assemble hardware components, configure software, and test functionality.| 1 Month          |  
-| **Phase 3: Pilot Test** | Deploy prototype in a small community, monitor performance and feedback. | 2 Weeks          |  
-| **Phase 4: Iteration**  | Refine design based on feedback, optimize costs, and improve efficiency. | 1 Week           |  
-| **Phase 5: Deployment** | Scale to 2-3 additional sites, create user manuals, and train technicians.| 1 Week          |  
+| **Phase**               | **Tasks**                                                                    | **Duration**     |  
+|-------------------------|------------------------------------------------------------------------------|------------------|   
+| **Phase 1: Prototype**  | Assemble hardware components, configure software, and test functionality.    | 1 Month          |  
+| **Phase 2: Pilot Test** | Deploy prototype in a small scale, monitor performance and feedback.         | 2 Weeks          |  
+| **Phase 3: Iteration**  | Refine design based on feedback, optimize costs, and improve efficiency.     | 1 Week           |  
+| **Phase 5: Deployment** | Scale to 2-3 additional sites, integrate the software aspects and deployment.| 1 Week           |  
 
 
 ### **5. Cost Estimation**  
